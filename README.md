@@ -16,6 +16,7 @@ To run this code, please follow the instructions below:
 1. Download the files in the repository
 
 2. Run using Google Colab
+3. The dataset including the images and masks can be found through this [link](https://drive.google.com/drive/folders/1xfzabUvMpLw8XSG_kS0FJCVQ15uAKePh?usp=sharing)
 
 
 ### Explanation of the code
@@ -27,12 +28,10 @@ To run this code, please follow the instructions below:
 
 
 ### Explanation of the files
-1. Cropping.ipynb:
-   This code is used to crop an image of any size into 512 x 512 pixels. This is done to ensure that all the input images of the model all have the size (consequently tensor size). 
+1. Cropping.ipynb:   This code is used to crop an image of any size into 512 x 512 pixels. This is done to ensure that all the input images of the model all have the size (consequently tensor size). 
+2. Code.ipynb:   This code is used to define the training and testing dataset in addition to the U-Net architecture. Finally the machine learning is implemented, and evaluated.
+
    
-2. Code.ipynb
-   This code is used to define the training and testin dataset. Additionally it is used to define the U-Net architecture.
-3. 
 
 ## Citation
 
