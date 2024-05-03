@@ -15,6 +15,9 @@ To run this code, please follow the instructions below:
 ### Installation
 1. Download the files in the repository
 ```
+```
 2. Run using Google Colab
 ```
+```
+
 3.
