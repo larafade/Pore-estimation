@@ -28,10 +28,8 @@ To run this code, please follow the instructions below:
 
 ### Explanation of the files
 1. Cropping.ipynb
-   ```
    This code is used to crop an image of any size into 512 x 512 pixels. This is done to ensure that all the input images of the model all have the size (consequently tensor size). 
-   ```
+   
 2. Code.ipynb
-    ```
    This code is used to crop an image of any size into 512 x 512 pixels. This is done to ensure that all the input images of the model all have the size (consequently tensor size).
-    ```
+    
