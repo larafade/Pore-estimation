@@ -24,3 +24,14 @@ To run this code, please follow the instructions below:
 3. Afterwards the training and testing datasets are defined
 4. The U-Net architecture is defines.
 5. Finally, the machine learning model named model includes the training / testing datasets and U-Net architecture 
+
+
+### Explanation of the files
+1. Cropping.ipynb
+   ```
+   This code is used to crop an image of any size into 512 x 512 pixels. This is done to ensure that all the input images of the model all have the size (consequently tensor size). 
+   ```
+2. Code.ipynb
+    ```
+   This code is used to crop an image of any size into 512 x 512 pixels. This is done to ensure that all the input images of the model all have the size (consequently tensor size).
+    ```
