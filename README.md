@@ -5,7 +5,7 @@ This code was developed to estimate porosity levels in light microscopy images u
 
 Input Image | Predicted Mask
 :--: | :--: 
-<img src="pic5.png" alt="pic1"  width="200%"> | <img src= "pic6.png" alt="pic1" width="200%">
+<img src="images/pic5.png" alt="pic1"  width="200%"> | <img src= "images/pic6.png" alt="pic1" width="200%">
 
 
 ## Getting Started
