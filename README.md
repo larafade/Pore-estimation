@@ -16,7 +16,6 @@ To run this code, please follow the instructions below:
 1. Download the files in the repository
 
 2. Run using Google Colab
-3. The dataset including the images and masks can be found through this [link](https://drive.google.com/drive/folders/1xfzabUvMpLw8XSG_kS0FJCVQ15uAKePh?usp=sharing)
 
 
 ### Explanation of the code
