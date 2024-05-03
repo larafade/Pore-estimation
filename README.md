@@ -20,7 +20,7 @@ To run this code, please follow the instructions below:
 
 ### Explanation of the code
 1. The first step is to crop the images to 512 x 512 px.
-2. The mask of the pores as images was generated usign the annotation file.
+2. The mask of the pores was generated as .jpg usign the annotation file.
 3. Afterwards the training and testing datasets are defined
 4. The U-Net architecture is defines.
 5. Finally, the machine learning model named model includes the training / testing datasets and U-Net architecture 
