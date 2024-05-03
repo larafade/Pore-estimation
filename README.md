@@ -6,3 +6,14 @@ This code was developed to estimate porosity levels in light microscopy images u
 Input Image | Predicted Mask
 :--: | :--: 
 <img src="pic5.png" alt="pic1"  width="200%"> | <img src= "pic6.png" alt="pic1" width="200%">
+
+
+## Getting Started
+To run this code, please follow the instructions below:
+
+
+### Installation
+1. Download the files in the repository
+```
+2. Run using Google Colab
+```
