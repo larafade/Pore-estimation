@@ -27,9 +27,23 @@ To run this code, please follow the instructions below:
 
 
 ### Explanation of the files
-1. Cropping.ipynb
+1. Cropping.ipynb:
    This code is used to crop an image of any size into 512 x 512 pixels. This is done to ensure that all the input images of the model all have the size (consequently tensor size). 
    
 2. Code.ipynb
-   This code is used to crop an image of any size into 512 x 512 pixels. This is done to ensure that all the input images of the model all have the size (consequently tensor size).
+   This code is used to define the training and testin dataset. Additionally it is used to define the U-Net architecture.
+3. 
+
+## Citation
+
+If you found this repository useful in your work, please consider citing the associated work:
+
+```
+@repos{,
+  author = {Lara Fadel},
+  title = {Pore estimation  using machine learning},
+  year = {2024},
+  school = {University of Southern California},
+  address = {Los Angeles, California}
+}
     
