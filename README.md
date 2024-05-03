@@ -1,6 +1,6 @@
-# Pore-estimation
+# Pore Estimation
 
-This code was developed to estimate porosity levels in light microscopy images using machine learning. The first step is to crop the images so that the size of the images is universal (512 x 512 px). Afterwards, the mask of the pores as images was generated usign the annotation file output from CVAT.ai. Afterwards the training and testing datasets are defined accordingly. The deep learning model is then implemented using U-Net as the CNN architecture. 
+This code was developed to estimate porosity levels in light microscopy images using machine learning. 
 
 
 Input Image | Predicted Mask
@@ -18,4 +18,9 @@ To run this code, please follow the instructions below:
 2. Run using Google Colab
 
 
-3.
+### Explanation of the code
+1. The first step is to crop the images to 512 x 512 px.
+2. The mask of the pores as images was generated usign the annotation file output from CVAT.ai.
+3. Afterwards the training and testing datasets are defined
+4. The U-Net architecture is defines.
+5. Finally, the machine learning model named model includes the training / testing datasets and U-Net architecture 
